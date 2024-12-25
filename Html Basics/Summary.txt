@@ -20,13 +20,11 @@ Topic Covered
 
 5. Add images (in folder + online)
 6. lists in Html
-
+7. linking (anchor tag <a>)
+8. tables 
+9. videos
 
 Remaining
 
-videos
 audio
-anchor tag
-linking
-tables 
 forms
