@@ -1,0 +1,32 @@
+Topic Covered
+
+1. Basic tags
+2. Headings (all)
+3. paragraphs
+4. Formatting
+	<b> - Bold text
+	<strong> - Important text
+	<i> - Italic text
+	<em> - Emphasized text
+	<mark> - Marked text
+	<small> - Smaller text
+	<del> - Deleted text
+	<ins> - Inserted text
+	<sub> - Subscript text
+	<sup> - Superscript text
+	<blockquote> - element defines a section that is quoted from another source.
+	<q> - tag defines a short quotation
+	<abbr> - tag defines an abbreviation or an acronym, like "HTML", "CSS", "Mr.", "Dr.", "ASAP", "ATM".
+
+5. Add images (in folder + online)
+6. lists in Html
+
+
+Remaining
+
+videos
+audio
+anchor tag
+linking
+tables 
+forms
